@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<people>
+  <person givenname="Mohamed" familyname="Ben Mohamed">
+    <phone type="home">+21672415296</phone>
+    <phone type="mobile">+21696582028</phone>
+  </person>
+  <person givenname="Ali" familyname="Ben Ali">
+    <phone type="mobile">+21698709214</phone>
+  </person>
+  <person givenname="Salah" familyname="Ben Salah">
+    <phone type="home">+21671856541</phone>
+    <phone type="mobile">+21698709628</phone>
+  </person>
+  <person givenname="Foulen" familyname="Ben Foulen">
+    <phone type="home">+21671856541</phone>
+    <phone type="mobile">+21698709628</phone>
+  </person>
+</people>
